@@ -2,14 +2,6 @@
 
 This is a TypeScript and React functional component that demonstrates how to implement debounce and throttle functionality for handling events such as scrolling or resizing.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Implementation](#implementation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Debouncing and throttling are techniques used to control the rate at which a function is executed in response to repeated events. This component provides a practical example of how to create debounced and throttled functions in a React application.
